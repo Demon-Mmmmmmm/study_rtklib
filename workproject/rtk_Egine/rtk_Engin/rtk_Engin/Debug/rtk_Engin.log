@@ -1,0 +1,14 @@
+﻿  rtkcmn.c
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rtkcmn.c(2608,20): warning C4477: “sscanf”: 格式字符串“%ld”需要类型“long *”的参数，但可变参数 5 拥有了类型“time_t *”
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rtkcmn.c(2608,20): message : 请考虑在格式字符串中使用“%lld”
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rtkcmn.c(2608,20): message : 请考虑在格式字符串中使用“%I64d”
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rtkcmn.c(2608,20): warning C4477: “sscanf”: 格式字符串“%ld”需要类型“long *”的参数，但可变参数 6 拥有了类型“time_t *”
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rtkcmn.c(2608,20): message : 请考虑在格式字符串中使用“%lld”
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rtkcmn.c(2608,20): message : 请考虑在格式字符串中使用“%I64d”
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rtkcmn.c(2608,20): warning C4477: “sscanf”: 格式字符串“%ld”需要类型“long *”的参数，但可变参数 7 拥有了类型“time_t *”
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rtkcmn.c(2608,20): message : 请考虑在格式字符串中使用“%lld”
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rtkcmn.c(2608,20): message : 请考虑在格式字符串中使用“%I64d”
+rtkcmn.obj : error LNK2005: _settime 已经在 mian.obj 中定义
+rtkcmn.obj : error LNK2005: _settspan 已经在 mian.obj 中定义
+rtkcmn.obj : error LNK2005: _showmsg 已经在 mian.obj 中定义
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\Debug\rtk_Engin.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
