@@ -1,4 +1,87 @@
-﻿  rtkcmn.c
+﻿  convkml.c
+  convrnx.c
+  datum.c
+  download.c
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\download.c(322,9): warning C4101: “stat”: 未引用的局部变量
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\download.c(505,22): warning C4101: “remot_p”: 未引用的局部变量
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\download.c(776,12): warning C4101: “tow”: 未引用的局部变量
+  ephemeris.c
+  geoid.c
+  ionex.c
+  lambda.c
+  mian.c
+  options.c
+  pntpos.c
+  postpos.c
+  ppp.c
+  ppp_ar.c
+  preceph.c
+  qzslex.c
+  rcvraw.c
+  binex.c
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rcv\binex.c(1004,31): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rcv\binex.c(1029,31): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  crescent.c
+  gw10.c
+  正在生成代码...
+  正在编译...
+  javad.c
+  novatel.c
+  nvs.c
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rcv\nvs.c(105,46): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rcv\nvs.c(267,29): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  rcvlex.c
+  rt17.c
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rcv\rt17.c(1713,39): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rcv\rt17.c(1746,39): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+  septentrio.c
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rcv\septentrio.c(229,56): warning C4101: “pos”: 未引用的局部变量
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rcv\septentrio.c(231,13): warning C4101: “tstr”: 未引用的局部变量
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rcv\septentrio.c(229,39): warning C4101: “lli”: 未引用的局部变量
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rcv\septentrio.c(231,11): warning C4101: “q”: 未引用的局部变量
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rcv\septentrio.c(229,61): warning C4101: “index”: 未引用的局部变量
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rcv\septentrio.c(229,50): warning C4101: “freq”: 未引用的局部变量
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rcv\septentrio.c(227,47): warning C4101: “tn”: 未引用的局部变量
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rcv\septentrio.c(227,50): warning C4101: “CurrentTime”: 未引用的局部变量
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rcv\septentrio.c(229,68): warning C4101: “dTowInt”: 未引用的局部变量
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rcv\septentrio.c(546,21): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rcv\septentrio.c(548,21): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rcv\septentrio.c(550,21): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rcv\septentrio.c(552,21): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rcv\septentrio.c(554,21): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rcv\septentrio.c(556,21): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rcv\septentrio.c(558,21): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rcv\septentrio.c(560,21): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rcv\septentrio.c(562,21): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rcv\septentrio.c(564,21): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rcv\septentrio.c(566,21): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rcv\septentrio.c(568,21): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rcv\septentrio.c(570,21): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rcv\septentrio.c(572,21): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rcv\septentrio.c(574,21): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rcv\septentrio.c(576,21): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rcv\septentrio.c(578,21): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rcv\septentrio.c(580,17): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rcv\septentrio.c(820,12): warning C4101: “toc”: 未引用的局部变量
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rcv\septentrio.c(874,12): warning C4101: “toc”: 未引用的局部变量
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rcv\septentrio.c(934,9): warning C4101: “prn”: 未引用的局部变量
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rcv\septentrio.c(997,21): warning C4101: “resp”: 未引用的局部变量
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rcv\septentrio.c(997,18): warning C4101: “id”: 未引用的局部变量
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rcv\septentrio.c(994,13): warning C4101: “sat”: 未引用的局部变量
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rcv\septentrio.c(1021,40): warning C4101: “fid”: 未引用的局部变量
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rcv\septentrio.c(1025,9): warning C4101: “i”: 未引用的局部变量
+  skytraq.c
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rcv\skytraq.c(197,52): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rcv\skytraq.c(319,21): warning C4244: “=”: 从“unsigned short”转换到“unsigned char”，可能丢失数据
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rcv\skytraq.c(326,52): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  ss2.c
+  ublox.c
+  rinex.c
+  rtcm.c
+  rtcm2.c
+  rtcm3.c
+  rtcm3e.c
+  rtkcmn.c
 I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rtkcmn.c(2608,20): warning C4477: “sscanf”: 格式字符串“%ld”需要类型“long *”的参数，但可变参数 5 拥有了类型“time_t *”
 I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rtkcmn.c(2608,20): message : 请考虑在格式字符串中使用“%lld”
 I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rtkcmn.c(2608,20): message : 请考虑在格式字符串中使用“%I64d”
@@ -8,7 +91,15 @@ I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rtkcm
 I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rtkcmn.c(2608,20): warning C4477: “sscanf”: 格式字符串“%ld”需要类型“long *”的参数，但可变参数 7 拥有了类型“time_t *”
 I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rtkcmn.c(2608,20): message : 请考虑在格式字符串中使用“%lld”
 I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\rtkcmn.c(2608,20): message : 请考虑在格式字符串中使用“%I64d”
-rtkcmn.obj : error LNK2005: _settime 已经在 mian.obj 中定义
-rtkcmn.obj : error LNK2005: _settspan 已经在 mian.obj 中定义
-rtkcmn.obj : error LNK2005: _showmsg 已经在 mian.obj 中定义
-I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\Debug\rtk_Engin.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
+  rtkpos.c
+  rtksvr.c
+  sbas.c
+  solution.c
+  stream.c
+I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\src\stream.c(631,12): warning C4101: “rs”: 未引用的局部变量
+  正在生成代码...
+  正在编译...
+  streamsvr.c
+  tle.c
+  正在生成代码...
+  rtk_Engin.vcxproj -> I:\workplace\gnss_learning_info\RTKLIB\workproject\rtk_Egine\rtk_Engin\Debug\rtk_Engin.exe
